@@ -10,8 +10,9 @@
   <img width='60px' height='60px' src='https://cdn.worldvectorlogo.com/logos/typescript-2.svg'>
   <img width='60px' height='60px' src='http://mindtwig.com/wp-content/uploads/2022/04/python.png'>
 </div>
-<h2>🛠 Frameworks</h2>
+<h2>🛠 Tools</h2>
 <div style='display: flex; flex-direction: row'>
-  <img width='120px' src='https://miro.medium.com/max/512/1*jA5lTgPRbyimsFNod7SlFQ.png'>
-  <img width='120px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png'>
+  <img width='60px' src='https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png'>
+  <img width='60px' src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'>
+  <img width='60px' src='https://play-lh.googleusercontent.com/efwNlvQ3pch_-hZ9xeHf6YF-f_rHzQQo21IVevPLOxpzSVfxuVKom2_7C6axFbC-3rU'>
 </div>
